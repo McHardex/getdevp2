@@ -1,1 +1,1 @@
-visit link `http://mammoth-mint.surge.sh`
+[visit link](http://mammoth-mint.surge.sh)
